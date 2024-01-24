@@ -1,0 +1,17 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore local development settings
+.env
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.swp
